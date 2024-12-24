@@ -329,7 +329,7 @@ targets_db
 #### 3) Passengers with higher repeat trip counts take 2-3 trips, and business cities have more trips on weekdays than weekends, while tourism cities see the opposite trend.
 
 #### 4) Jaipur outperforming all other cities in trips, revenue, ratings, and targets.
-However, it faces challenges with repeat passenger rates and new passenger targets (-15%), indicating:
+However, it faces challenges with repeat passenger rates and new passenger targets **(-15%)**, indicating:
    - Low passenger loyalty
    - Insufficient tailored marketing
    - This pattern is common across Tourism-focused cities
