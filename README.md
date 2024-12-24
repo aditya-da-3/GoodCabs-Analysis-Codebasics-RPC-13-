@@ -331,7 +331,7 @@ targets_db
 4) Jaipur outperforming all other cities in trips, revenue, ratings, and targets.
   However, it faces challenges with repeat passenger rates and new passenger targets (-15%), indicating:
    - Low passenger loyalty
-  - Insufficient tailored marketing
+   - Insufficient tailored marketing
   This pattern is common across Tourism-focused cities
 - Jaipur's strong performance is largely driven by its tourist attraction.
 
