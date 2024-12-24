@@ -30,7 +30,7 @@ With a mission to foster sustainability and customer satisfaction, the company h
 ## Project Presentation (Video)
 
 <p align="center">
-  <a href="https://youtu.be/Mt6Jaf3Tkus" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/watch?v=jQbHM1GvCmE" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/rpc13-project-thumbnail.png" 
       alt="Presentation Preview" 
