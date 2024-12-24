@@ -15,7 +15,7 @@ With a mission to foster sustainability and customer satisfaction, the company h
 ## Table of Contents:
 
 - [Project Presentation (Video)](#project-presentation-video)
-- [Live Dashboard]()
+- [Live Dashboard](#live-dashboard)
 - [Tools Used]()
 - [Problem Statement]()
 - [Objectives]()
