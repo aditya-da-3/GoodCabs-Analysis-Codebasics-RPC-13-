@@ -16,7 +16,7 @@ With a mission to foster sustainability and customer satisfaction, the company h
 
 - [Project Presentation (Video)](#project-presentation-video)
 - [Live Dashboard](#live-dashboard)
-- [Tools Used]()
+- [Tools Used](#tools-used)
 - [Problem Statement]()
 - [Objectives]()
 - [Dataset]()
