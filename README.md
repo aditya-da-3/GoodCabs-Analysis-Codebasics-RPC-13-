@@ -257,3 +257,99 @@ targets_db
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%208%20e).png">
 </p>
 
+## Secondary Analysis:
+
+#### 1. Factors Influencing Repeat Passenger Rates
+
+- Clean Roads, Reliable rides, and Good drivers build trust among daily commuters travelling for business Purpose.
+- Affordable pricing with discounts and loyalty programs attracts local commuters and budget-conscious tourists.
+- Rising incomes and better infrastructure in Tier 2 cities create opportunities to attract and keep loyal customers with tailored services.
+- Urban growth, limited public transport, and a growing middle class increase demand, with business hubs requiring punctual services and tourism hubs thriving on tailored packages.
+- Festivals, bad weather, and tourist seasons boost demand, making reliable service essential for customer retention.
+- Business cities drive repeat commutes, while tourism cities attract tourists and local users alike.
+
+#### 2. Tourism vs. Business Demand Impact
+
+- Increased Demand During Events:
+
+      1) Festivals and conferences increase rides from tourists and event-goers.
+
+      2) Tourism seasons boost demand for rides to popular destinations, hotels and airports.
+
+- Tailored Marketing:
+
+      1) Event promotions with discounts or packages help attract more customers.
+
+      2) Localized campaigns with Convenient, tourist-friendly messages attract more customers.
+
+      3) Partnerships with event organizers increase brand visibility..
+
+#### 3. Emerging Mobility Trends and Goodcabs' Adaptation
+
+- EVs lower operational costs and attract eco-conscious customers.
+
+- Charging EVs with green energy supports sustainability and reduces carbon footprint.
+
+- Government incentives and regulations favor the adoption of green transport.
+
+- Younger generations in tier-2 cities increasingly prefer eco-friendly services..
+
+#### 4. Partnership Opportunities with Local Businesses
+
+- Partnering with hotels can attract tourists and business travelers by offering rides to and from the hotel.
+
+- Offering exclusive ride deals for mall visitors can increase trips, especially during busy seasons.
+
+- Collaborating with event venues for rides to festivals or conferences can boost demand.
+
+- Working with local tourist spots can attract more tourists to use Goodcabs.
+
+- Providing discounts or deals for customers of partner businesses can improve loyalty and encourage repeat rides.
+
+#### 5. Data Collection for Enhanced Data-Driven Decisions
+
+- Customer Behavior Data: Monitor ride frequency, preferred ride types, and peak travel times to better understand customer patterns and enhance services.
+
+- Operational Efficiency Data: Monitor driver performance, trip duration, and vehicle type to improve efficiency.
+
+- Financial Data : Collect Data containing Different Costs Accumulated in Rides ,Profit Margin & Discounts
+
+- Market Share Data: Track competitor offerings, local events, and economic trends to predict demand and stay competitive.
+
+- Cancellation Insights: Track cancellations and their reasons to improve service quality.
+
+- New Passenger Acquisition Data: Analyze sources of new customers, conversion rates, and the effectiveness of promotions to improve growth.
+
+## Insights
+
+    1) GoodCabs generates 70% of its revenue from tourists and 30% from business commuters.
+
+    2) Peak demand in Feb, April, May is due to festivals, holidays, and vacations, while Jan and June face low demand from post-holiday slowdown and monsoon.
+
+    4) Passengers with higher repeat trip counts take 2-3 trips, and business cities have more trips on weekdays than weekends, while tourism cities see the opposite trend.
+
+    5) Jaipur outperforming all other cities in trips, revenue, ratings, and targets.
+          However, it faces challenges with repeat passenger rates and new passenger targets (-15%), indicating:
+          Low passenger loyalty
+          Insufficient tailored marketing
+          This pattern is common across Tourism-focused cities
+          Jaipur's strong performance is largely driven by its tourist attraction.
+
+    6) Surat, a business hub, has the highest repeat passenger rate (50%) due to lower trip costs and frequent business travel needs.
+          However, it struggles with:
+          Achieving trip and ratings targets
+          Lowest passenger and driver ratings
+          This trend is common in business-focused cities and highlights service quality issues.
+
+## Recommendations
+
+- GoodCabs should focus on tailored marketing and brand awareness by offering free trips after 5 successful referrals to boost both brand visibility and passenger loyalty.
+
+- GoodCabs should enhance service quality and offer perks to drivers, especially in business hubs like Surat and Vadodara.
+
+- GoodCabs should actively collect customer reviews and implement feedback quickly to improve customer satisfaction.
+
+- GoodCabs should run targeted campaigns and partner with established brands in tourist spots to increase reach, offering lower trip costs or profit sharing.
+
+- GoodCabs should implement EVs and urban technology in business hubs to reduce operating costs, where profits are lower due to shorter trip distances and lower fares.
+
