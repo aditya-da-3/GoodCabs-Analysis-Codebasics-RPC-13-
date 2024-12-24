@@ -21,7 +21,7 @@ With a mission to foster sustainability and customer satisfaction, the company h
 - [Objectives]()
 - [Dataset]()
 - [Data Model]()
-- [Dashboard Overview]()
+- [Dashboard Preview]()
 - [Primary Questions]()
 - [Secondary Questions]()
 - [Insights]()
@@ -107,7 +107,7 @@ targets_db
   >
 </div>
 
-## Dashboard Overview
+## Dashboard Preview
 
   <h3>Home Page</h3>
   <img 
