@@ -155,7 +155,7 @@ targets_db
 
 ## Primary Analysis: 
 
-1. Identify the top 3 and bottom 3 cities by total trips over the entire analysis period.
+#### Q1. Identify the top 3 and bottom 3 cities by total trips over the entire analysis period.
 
 <p align="center">
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%201%20a).png">
@@ -165,13 +165,13 @@ targets_db
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%201%20b).png">
 </p>
 
-2. Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
+#### Q2. Calculate the average fare per trip for each city and compare it with the city's average trip distance. Identify the cities with the highest and lowest average fare per trip to assess pricing efficiency across locations.
 
 <p align="center">
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%202.png">
 </p>
 
-3. Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
+#### Q3. Calculate the average passenger and driver ratings for each city, segmented by passenger type (new vs. repeat). Identify cities with the highest and lowest average ratings.
 
 <p align="center"><strong> For New Passengers </strong></p>
 <p align="center">
@@ -183,13 +183,13 @@ targets_db
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%203%20b).png">
 </p>
 
-4. For each city, identify the month with the highest total trips (peak demand) and the month with the lowest total trips (low demand). 
+#### Q4. For each city, identify the month with the highest total trips (peak demand) and the month with the lowest total trips (low demand). 
 
 <p align="center">
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%204.png">
 </p>
 
-5. Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
+#### Q5. Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
 
 <p align="center"><strong> Weekdays </strong></p>
 <p align="center">
@@ -201,7 +201,7 @@ targets_db
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%205%20a).png">
 </p>
 
-6. Identify which cities contribute most to higher trip frequencies among repeat passengers, and examine if there are distinguishable patterns between tourism-focused and business-focused cities.
+#### Q6. Identify which cities contribute most to higher trip frequencies among repeat passengers, and examine if there are distinguishable patterns between tourism-focused and business-focused cities.
 
 <p align="center"><strong> Business Focused Cities </strong></p>
 <p align="center">
@@ -213,7 +213,7 @@ targets_db
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%206%20b).png">
 </p>
 
-7. For each city, evaluate monthly performance against targets for total trips, new passengers, and average passenger ratings. Determine if each metric met, exceeded, or missed the target, and calculate the percentage difference.
+#### Q7. For each city, evaluate monthly performance against targets for total trips, new passengers, and average passenger ratings. Determine if each metric met, exceeded, or missed the target, and calculate the percentage difference.
 
 <p align="center"><strong> For Total Trips </strong></p>
 <p align="center">
@@ -235,7 +235,7 @@ targets_db
   <img src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Primary%20Analysis%20Output/Q%207%20d).png">
 </p>
 
-8. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
+#### Q8. Identify the top 2 and bottom 2 cities based on their RPR% to determine which locations have the strongest and weakest rates. Similarly, analyze the RPR% by month across all cities and identify the months with the highest and lowest repeat passenger rates.
 
 <p align="center"><strong> RPR % Between Cities Across Months </strong></p>
 <p align="center">
