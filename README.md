@@ -322,20 +322,20 @@ targets_db
 - 
 ## Insights
 
-1) GoodCabs generates 70% of its revenue from tourists and 30% from business commuters.
+#### 1) GoodCabs generates 70% of its revenue from tourists and 30% from business commuters.
 
-2) Peak demand in Feb, April, May is due to festivals, holidays, and vacations, while Jan and June face low demand from post-holiday slowdown and monsoon.
+#### 2) Peak demand in Feb, April, May is due to festivals, holidays, and vacations, while Jan and June face low demand from post-holiday slowdown and monsoon.
 
-3) Passengers with higher repeat trip counts take 2-3 trips, and business cities have more trips on weekdays than weekends, while tourism cities see the opposite trend.
+#### 3) Passengers with higher repeat trip counts take 2-3 trips, and business cities have more trips on weekdays than weekends, while tourism cities see the opposite trend.
 
-4) Jaipur outperforming all other cities in trips, revenue, ratings, and targets.
-  However, it faces challenges with repeat passenger rates and new passenger targets (-15%), indicating:
+#### 4) Jaipur outperforming all other cities in trips, revenue, ratings, and targets.
+However, it faces challenges with repeat passenger rates and new passenger targets (-15%), indicating:
    - Low passenger loyalty
    - Insufficient tailored marketing
  - This pattern is common across Tourism-focused cities
  - Jaipur's strong performance is largely driven by its tourist attraction.
 
-5) Surat, a business hub, has the highest repeat passenger rate (50%) due to lower trip costs and frequent business travel needs.
+#### 5) Surat, a business hub, has the highest repeat passenger rate (50%) due to lower trip costs and frequent business travel needs.
   However, it struggles with:
   - Achieving trip and ratings targets
   - Lowest passenger and driver ratings
