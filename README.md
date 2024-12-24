@@ -332,14 +332,14 @@ targets_db
 However, it faces challenges with repeat passenger rates and new passenger targets (-15%), indicating:
    - Low passenger loyalty
    - Insufficient tailored marketing
- - This pattern is common across Tourism-focused cities
- - Jaipur's strong performance is largely driven by its tourist attraction.
+   - This pattern is common across Tourism-focused cities
+   - Jaipur's strong performance is largely driven by its tourist attraction.
 
 #### 5) Surat, a business hub, has the highest repeat passenger rate (50%) due to lower trip costs and frequent business travel needs.
   However, it struggles with:
   - Achieving trip and ratings targets
   - Lowest passenger and driver ratings
-This trend is common in business-focused cities and highlights service quality issues.
+  - This trend is common in business-focused cities and highlights service quality issues.
 
 ## Recommendations
 
