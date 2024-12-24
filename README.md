@@ -14,7 +14,7 @@ With a mission to foster sustainability and customer satisfaction, the company h
 
 ## Table of Contents:
 
-- [Project Presentation (Video)](https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/tree/main?tab=readme-ov-file#project-presentation-video)
+- [Project Presentation (Video)](#project-presentation-video)
 - [Live Dashboard]()
 - [Tools Used]()
 - [Problem Statement]()
