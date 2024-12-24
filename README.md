@@ -4,7 +4,7 @@
 
 ## Overview:
 
-Goodcabs, founded in 2022, is a rising cab service company like Ola, Uber etc making waves in the Indian market by focusing on tier-2 cities.
+Goodcabs, founded in 2022, is a rising cab service company like Ula, Ober etc making waves in the Indian market by focusing on tier-2 cities.
 
 It is Dedicated to empowering local drivers and providing exceptional service.
 Goodcabs operates in ten cities across India.
