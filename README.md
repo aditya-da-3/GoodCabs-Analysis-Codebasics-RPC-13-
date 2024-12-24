@@ -32,7 +32,7 @@ With a mission to foster sustainability and customer satisfaction, the company h
 <p align="center">
   <a href="https://www.youtube.com/watch?v=jQbHM1GvCmE" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://raw.githubusercontent.com/PuranjoyPatra/Resume_Project_Challenge13/refs/heads/master/images/rpc13-project-thumbnail.png" 
+      src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Dashboard%20Preview/1)%20Home%20Page.png" 
       alt="Presentation Preview" 
       style="width: 70%; max-width: 360px;"
     >
