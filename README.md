@@ -259,7 +259,7 @@ targets_db
 
 ## Secondary Analysis:
 
-#### 1. Factors Influencing Repeat Passenger Rates
+#### Q1. What factors (such as quality of service, competitive pricing, or city demographics) might contribute to higher or lower repeat passenger rates in different cities? Are there correlations with socioeconomic or lifestyle patterns in these cities?
 
 - Clean Roads, Reliable rides, and Good drivers build trust among daily commuters travelling for business Purpose.
 - Affordable pricing with discounts and loyalty programs attracts local commuters and budget-conscious tourists.
@@ -268,7 +268,7 @@ targets_db
 - Festivals, bad weather, and tourist seasons boost demand, making reliable service essential for customer retention.
 - Business cities drive repeat commutes, while tourism cities attract tourists and local users alike.
 
-#### 2. Tourism vs. Business Demand Impact
+#### Q2. How do tourism seasons or local events (festivals, conferences) impact Goodcabs' demand patterns? Would tailoring marketing efforts to these events increase trip volume in tourism-oriented cities?
 
 - Increased Demand During Events:
 
@@ -284,7 +284,7 @@ targets_db
 
       3) Partnerships with event organizers increase brand visibility..
 
-#### 3. Emerging Mobility Trends and Goodcabs' Adaptation
+#### Q3. What emerging mobility trends (such as electric vehicle adoption, green energy use) are impacting the cab service market in tier-2 cities? Should Goodcabs consider integrating electric vehicles or eco-friendly initiatives to stay competitive?
 
 - EVs lower operational costs and attract eco-conscious customers.
 
@@ -294,7 +294,7 @@ targets_db
 
 - Younger generations in tier-2 cities increasingly prefer eco-friendly services..
 
-#### 4. Partnership Opportunities with Local Businesses
+#### Q4. Are there opportunities for Goodcabs to partner with local businesses (such as hotels, malls, or event venues) to boost demand and improve customer loyalty? Could these partnerships drive more traffic, especially in tourism- heavy or high-footfall areas?
 
 - Partnering with hotels can attract tourists and business travelers by offering rides to and from the hotel.
 
@@ -306,7 +306,7 @@ targets_db
 
 - Providing discounts or deals for customers of partner businesses can improve loyalty and encourage repeat rides.
 
-#### 5. Data Collection for Enhanced Data-Driven Decisions
+#### Q5. To make Goodcabs more data-driven and improve its performance across key metrics (such as repeat passenger rate, customer satisfaction, new passengers and trip volume), what additional data should Goodcabs collect?
 
 - Customer Behavior Data: Monitor ride frequency, preferred ride types, and peak travel times to better understand customer patterns and enhance services.
 
@@ -340,7 +340,7 @@ However, it faces challenges with repeat passenger rates and new passenger targe
   - Achieving trip and ratings targets
   - Lowest passenger and driver ratings
   - This trend is common in business-focused cities and highlights service quality issues.
-
+    
 ## Recommendations
 
 - GoodCabs should focus on tailored marketing and brand awareness by offering free trips after 5 successful referrals to boost both brand visibility and passenger loyalty.
