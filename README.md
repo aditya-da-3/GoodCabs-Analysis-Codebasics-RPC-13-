@@ -319,27 +319,27 @@ targets_db
 - Cancellation Insights: Track cancellations and their reasons to improve service quality.
 
 - New Passenger Acquisition Data: Analyze sources of new customers, conversion rates, and the effectiveness of promotions to improve growth.
-
+- 
 ## Insights
 
-    1) GoodCabs generates 70% of its revenue from tourists and 30% from business commuters.
+1) GoodCabs generates 70% of its revenue from tourists and 30% from business commuters.
 
-    2) Peak demand in Feb, April, May is due to festivals, holidays, and vacations, while Jan and June face low demand from post-holiday slowdown and monsoon.
+2) Peak demand in Feb, April, May is due to festivals, holidays, and vacations, while Jan and June face low demand from post-holiday slowdown and monsoon.
 
-    4) Passengers with higher repeat trip counts take 2-3 trips, and business cities have more trips on weekdays than weekends, while tourism cities see the opposite trend.
+3) Passengers with higher repeat trip counts take 2-3 trips, and business cities have more trips on weekdays than weekends, while tourism cities see the opposite trend.
 
-    5) Jaipur outperforming all other cities in trips, revenue, ratings, and targets.
-          However, it faces challenges with repeat passenger rates and new passenger targets (-15%), indicating:
-          Low passenger loyalty
-          Insufficient tailored marketing
-          This pattern is common across Tourism-focused cities
-          Jaipur's strong performance is largely driven by its tourist attraction.
+4) Jaipur outperforming all other cities in trips, revenue, ratings, and targets.
+  However, it faces challenges with repeat passenger rates and new passenger targets (-15%), indicating:
+   - Low passenger loyalty
+  - Insufficient tailored marketing
+  This pattern is common across Tourism-focused cities
+- Jaipur's strong performance is largely driven by its tourist attraction.
 
-    6) Surat, a business hub, has the highest repeat passenger rate (50%) due to lower trip costs and frequent business travel needs.
-          However, it struggles with:
-          Achieving trip and ratings targets
-          Lowest passenger and driver ratings
-          This trend is common in business-focused cities and highlights service quality issues.
+5) Surat, a business hub, has the highest repeat passenger rate (50%) due to lower trip costs and frequent business travel needs.
+  However, it struggles with:
+  - Achieving trip and ratings targets
+  - Lowest passenger and driver ratings
+This trend is common in business-focused cities and highlights service quality issues.
 
 ## Recommendations
 
@@ -352,4 +352,3 @@ targets_db
 - GoodCabs should run targeted campaigns and partner with established brands in tourist spots to increase reach, offering lower trip costs or profit sharing.
 
 - GoodCabs should implement EVs and urban technology in business hubs to reduce operating costs, where profits are lower due to shorter trip distances and lower fares.
-
