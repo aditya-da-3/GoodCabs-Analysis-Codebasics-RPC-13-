@@ -319,7 +319,7 @@ targets_db
 - Cancellation Insights: Track cancellations and their reasons to improve service quality.
 
 - New Passenger Acquisition Data: Analyze sources of new customers, conversion rates, and the effectiveness of promotions to improve growth.
-- 
+  
 ## Insights
 
 #### 1) GoodCabs generates 70% of its revenue from tourists and 30% from business commuters.
