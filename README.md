@@ -32,7 +32,7 @@ With a mission to foster sustainability and customer satisfaction, the company h
 <p align="center">
   <a href="https://www.youtube.com/watch?v=jQbHM1GvCmE" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/GoodCabs%20Youtube%20Thumbnail.png" 
+      src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Goodcabs%20Youtube%20Thumbnail.png" 
       alt="Presentation Preview" 
       style="width: 70%; max-width: 360px;"
     >
