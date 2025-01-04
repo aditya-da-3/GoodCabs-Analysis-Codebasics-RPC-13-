@@ -30,7 +30,7 @@ With a mission to foster sustainability and customer satisfaction, the company h
 ## Project Presentation (Video)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=jQbHM1GvCmE" target="_blank" rel="noopener noreferrer">
+  <a href="https://youtu.be/K8udR_K9X6E?si=QMfmZ4QAwcSzl9ok" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github.com/aditya-da-3/GoodCabs-Analysis-Codebasics-RPC-13-/blob/main/Images/Goodcabs%20Youtube%20Thumbnail.png" 
       alt="Presentation Preview" 
